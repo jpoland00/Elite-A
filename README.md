@@ -7,7 +7,7 @@
 * <a href="https://theplatform.shop">TPS</a>
 * <a href="https://www.24hourlocksmith-texas.com/austin">United Locksmith</a>
 * <a href="https://www.patridgetires.com/precision-mobile-alignment">Precision Semitruck Alignments</a>
-* <a href="https://Naturalforces.com">Sports Massages</a>
+* <a href="https://Naturalforcesmassage.com">Sports Massages</a>
 
 
 GCR
