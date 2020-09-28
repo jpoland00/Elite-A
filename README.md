@@ -11,7 +11,9 @@
 * <a href="https://houstonvendingmachinerepair">Houston Vending</a>
 * <a href="https://crt-services.com">CRT Services</a>
 * <a href="https://crtsupply.com">CRT Supply</a>
-* <a href="https://theplatform.shop">TPS</a>
+* <a href="https://fullarmorgunrange.com">FAGR</a>
+* <a href="https://hathornrepair.com">HR</a>
+* <a href="https://hathornbuysgold.com">HB Gold</a>
 
 
 GCR
