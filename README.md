@@ -3,11 +3,35 @@
 * <a href="https://asapmktg.com">Emerging Marketing</a>
 * <a href="https://beefjerky.com">Beef Jerky</a>
 * <a href="https://fascontent.com">Float & Sting</a>
-* [Collaboration Tools](#collaboration-tools)
-* [Color Picker Tools](#color-picker-tools)
-* [Design Feedback Tools](#design-feedback-tools)
-* [Design Handoff Tools](#design-handoff-tools)
-* [Design Inspiration](#design-inspiration)
+* <a href="https://patridgetires.com">Mobile Tire Alignment</a>
+* <a href="https://theplatform.shop">TPS</a>
+* <a href="https://www.24hourlocksmith-texas.com/austin">United Locksmith</a>
+* <a href="https://www.patridgetires.com/precision-mobile-alignment">Precision Semitruck Alignments</a>
+
+
+GCR
+https://gcr-socal.com/windows/
+https://gcr-socal.com/exterior-painting/
+https://gcr-socal.com/windows/
+https://gcr-socal.com/commercial-exterior-services/
+https://gcr-socal.com/lifetime-paint/
+https://gcr-socal.com/foundation-retrofitting/
+https://gcr-socal.com/patio-covers/
+https://gcr-socal.com/pavers-and-cement/
+https://gcr-socal.com/solar-panel/
+
+
+ASAP Mktg
+https://asapmktg.com/services/search-engine-marketing/
+https://asapmktg.com/services/audio-video-content-creation/
+https://asapmktg.com/services/social-media-marketing/
+https://asapmktg.com/services/email-marketing/
+https://asapmktg.com/services/web-design/
+https://asapmktg.com/services/content-marketing/
+https://asapmktg.com/services/ecommerce-international-trade/
+https://asapmktg.com/services/graphics-design/
+https://asapmktg.com/services/lead-generation/
+
 
 
 # Elite-A
