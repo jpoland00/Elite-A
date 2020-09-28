@@ -1,3 +1,15 @@
+## Table of Content
+
+* [Accessibility Tools](#accessibility-tools)
+* [Animation Tools](#animation-tools)
+* [Augmented Reality](#augmented-reality)
+* [Collaboration Tools](#collaboration-tools)
+* [Color Picker Tools](#color-picker-tools)
+* [Design Feedback Tools](#design-feedback-tools)
+* [Design Handoff Tools](#design-handoff-tools)
+* [Design Inspiration](#design-inspiration)
+
+
 # Elite-A
 Coding for our API project in conjunction with Energy Star the government program
 <a href="https://blog.eliteappliance.com">Blog Arena</a>
