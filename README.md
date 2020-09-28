@@ -1,8 +1,8 @@
 ## Table of Content
 
-* [Accessibility Tools](#accessibility-tools)
-* [Animation Tools](#animation-tools)
-* [Augmented Reality](#augmented-reality)
+* <a href="https://asapmktg.com">Emerging Marketing</a>
+* <a href="https://beefjerky.com">Beef Jerky</a>
+* <a href="https://fascontent.com">Float & Sting</a>
 * [Collaboration Tools](#collaboration-tools)
 * [Color Picker Tools](#color-picker-tools)
 * [Design Feedback Tools](#design-feedback-tools)
